@@ -45,11 +45,11 @@ This project aims to assist students of MIT in booking cabs to transport conveni
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/prateek0809/Cab_Booking_System.git
    ```
 2. Navigate to the Project Directory:
    ```bash
-   cd CabBookingSystem
+   cd Cab_Booking_System
    ```
 
 3. Ensure Python 3.x is installed.
